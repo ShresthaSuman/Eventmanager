@@ -1,0 +1,6 @@
+com\leapfrog\enquirymanagement\entity\Course.class
+com\leapfrog\enquirymanagement\DAO\CourseDAO.class
+com\leapfrog\enquirymanagement\DAOImpl\CourseDAOImpl.class
+com\leapfrog\enquirymanagement\DAOImpl\EnquiryDAOImpl.class
+com\leapfrog\enquirymanagement\entity\Enquiry.class
+com\leapfrog\enquirymanagement\DAO\EnquiryDAO.class
